@@ -1,0 +1,17 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+div {
+  border-left: 4px solid rgba(0, 0, 0, .5);
+  padding: 2px 0 2px 10px;
+  margin-bottom: 20px;
+  width: 400px;
+}
+
+#coach-answer {
+  background-color: rgba(255, 251, 0, 0.1);
+  p:first-child {
+    font-weight: bold;
+  }
+}
